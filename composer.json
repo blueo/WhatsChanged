@@ -3,8 +3,7 @@
   "description": "Run PHPUnit tests on only classes and tests which have changed",
   "type": "library",
   "require": {
-    "php": ">=7.0",
-    "phpunit/phpunit": "^6.0"
+    "php": ">=7.0"
   },
   "license": "BSD-3-Clause",
   "authors": [
